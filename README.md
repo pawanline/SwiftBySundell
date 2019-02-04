@@ -1,2 +1,2 @@
 # SwiftBySundell
-Learn swift along with sundell
+Learn swift along with john-sundell
